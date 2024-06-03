@@ -1,0 +1,1 @@
+alert("Welcome to Orange coding academy");
